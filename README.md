@@ -1,6 +1,6 @@
 SYSU-Scene Dataset
 =================================
-![SYSU-Scene example](https://raw.githubusercontent.com/bearpaw/clothing-co-parsing/master/example.jpg)
+![SYSU-Scene example](https://github.com/ruixuejianfei/SYSU-Scene/blob/master/sample.png)
 
 SYSU-Scene dataset is a new parsing database including elaborately annotated objects.
 
