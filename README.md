@@ -28,7 +28,4 @@ Notes on Image-Level Annotations
 Each annotation is saved in `ground truth/` as a matlab `.mat` file, which is a variable
 - groundtruth: [h*w] matrix denotes the annotated labels of pixels
 
-Citation
---------
-
 ```
