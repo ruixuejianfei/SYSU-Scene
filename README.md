@@ -22,6 +22,7 @@ Root directory contains following files and folders:
   - label_list.mat              - [1*59] cell array which maps label numbers to label names
   - README.md                   - this file
   - sample.png                  - sample annotations
+  - sentences.json              - semantic description of images
 
 Notes on Image-Level Annotations
 --------------------------------
