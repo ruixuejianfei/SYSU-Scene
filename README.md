@@ -19,7 +19,7 @@ Root directory contains following files and folders:
   - gtvis/                      - directory of visual result of annotations (5046 files.png)
   - images/                     - directory of original photos (5046 files.jpg)
   - seg/                        - directory of segmentations (5046 files.png)
-  - label_list.mat              - [1*59] cell array which maps label numbers to label names
+  - label_list.mat              - [1*37] cell array which maps label numbers to label names while '0' maps to 'background'
   - README.md                   - this file
   - sample.png                  - sample annotations
   - sentences.json              - semantic description of images
