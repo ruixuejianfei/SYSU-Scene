@@ -8,7 +8,7 @@ SYSU-Scene dataset is a new parsing database including elaborately annotated obj
   - Wide range of categories, relationship, and scenes
   - All images are with pixel-level annotations
 
-Feel free to contact `r.m.zhang1989@gmail.com` should you have any suggestions or questions.
+Feel free to contact `ruimao.zhang@ieee.org` should you have any suggestions or questions.
 
 Please visit the [project page](http://hcp.sysu.edu.cn/sysu-scenes/) for more information.
 
